@@ -70,7 +70,7 @@ footer:
       url: "https://github.com/wamalwaj"
     - #label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
+      #url: "https://instagram.com/add"
 
 defaults:
   # _posts
