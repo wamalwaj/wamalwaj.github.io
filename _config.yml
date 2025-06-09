@@ -6,13 +6,12 @@ description: Welcome to John Wamalwa's digital portfolio. A hub showcasing exper
   the digital landscape. Let's connect, innovate and shape the future of technology together!
 linkedin_username: John Wamalwa
 github_username: wamalwaj
-minimal_mistakes_skin: default
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
-theme: minimal-mistakes-jekyll
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
