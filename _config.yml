@@ -32,7 +32,7 @@ plugins:
 
 author:
   name   : "John Wamalwa"
-  avatar : "/assets/images/Passport.jpg"
+  avatar : "/assets/images/passport.jpg"
   bio    : "Mathematics & Computer Science graduate specializing in Security Engineering, Data Analytics and ICT solutions. Passionate about leveraging technology to secure systems, optimize data insights and drive innovation in the digital space."
   links:
     - label: "Website"
