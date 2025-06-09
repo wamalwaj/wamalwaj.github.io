@@ -1,9 +1,9 @@
 title: John Wamalwa
 email: 254wamalwa@gmail.com
-description: Welcome to John Wamalwa's digital portfolio. A hub showcasing expertise in cybersecurity, ICT and data analytics. 
+description: Welcome to my digital portfolio. A hub showcasing expertise in cybersecurity, ICT and data analytics. 
   Explore innovative projects, insightful write-ups and technical challenges that highlight my problem-solving skills 
   and commitment to data-driven security solutions. Dive into research, development and strategies that secure and enhance 
-  the digital landscape. Let's connect, innovate and shape the future of technology together!
+  the digital landscape. Let us connect, innovate and shape the future of technology together!
 linkedin_username: John Wamalwa
 github_username: wamalwaj
 minimal_mistakes_skin: neon
@@ -21,19 +21,7 @@ timezone:  https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
-# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -44,7 +32,7 @@ plugins:
 
 author:
   name   : "John Wamalwa"
-  avatar : "/assets/images/Passport.jpg"
+  avatar : "/assets/images/passport.jpg"
   bio    : "Mathematics & Computer Science graduate specializing in Security Engineering, Data Analytics and ICT solutions. Passionate about leveraging technology to secure systems, optimize data insights and drive innovation in the digital space."
   links:
     - label: "Website"
@@ -56,9 +44,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wamalwaj"
-    - #label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
 
 footer:
   links:
@@ -68,9 +53,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wamalwaj"
-    - #label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/add"
+
 
 defaults:
   # _posts
