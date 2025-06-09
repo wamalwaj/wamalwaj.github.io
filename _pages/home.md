@@ -9,7 +9,7 @@ title: "Home Page"
 🚀 **Cybersecurity | Data Analytics | IT Solutions**  
 
 ### About Me  
-I am a **Mathematics & Computer Science graduate** with a passion for **cybersecurity, data analytics and IT infrastructure**. My expertise lies in securing systems, analyzing data-driven insights and crafting innovative solutions for modern digital challenges.  
+I am a **Mathematics & Computer Science graduate** with a passion for **cybersecurity, data analytics and IT Infrastructure**. My expertise lies in securing systems, analyzing data-driven insights and crafting innovative solutions for modern digital challenges.  
 
 ### What You’ll Find Here  
 ✔ **Professional Resume** – My academic and work experience  
